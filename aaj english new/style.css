@@ -1,0 +1,11 @@
+header{
+    background-color: beige;
+    color: black;
+    border-color: black
+}
+.header>ul>Li{
+    background-color: beige;
+    text-align: center;
+    font-size: 36px;
+    display: inline-block;
+}
